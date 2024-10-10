@@ -20,11 +20,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gouranga-das-samrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gouranga-das-samrat" height="30" width="40" /></a>
+<a href="https://dev.to/gouranga-das-khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gouranga-das-khulna" height="30" width="40" /></a>
 <a href="https://twitter.com/gouranga_khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gouranga_khulna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gouranga-das-samrat-330311294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gouranga-das-samrat-330311294" height="30" width="40" /></a>
+<a href="https://codesandbox.com/gouranga-das-khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gouranga-das-khulna" height="30" width="40" /></a>
 <a href="https://kaggle.com/gourangadassamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gourangadassamrat" height="30" width="40" /></a>
 <a href="https://fb.com/gourangadassamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gourangadassamrat" height="30" width="40" /></a>
 <a href="https://instagram.com/gouranga.das.khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gouranga.das.khulna" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gourangakhulna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gourangakhulna" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gouranga_das_kh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gouranga_das_kh1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cqq98g0hw0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cqq98g0hw0" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/gouranga.das.khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gouranga.das.khulna" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/cMK4fjvB72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cMK4fjvB72" height="30" width="40" /></a>
 </p>
 
