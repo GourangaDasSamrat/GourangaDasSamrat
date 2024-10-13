@@ -1,44 +1,70 @@
-<h1 align="center">Hi 👋, I'm Gouranga Das Samrat</h1>
-<h3 align="center">A professional programmer in Bangladesh.</h3>
+<h1 align="left">Hi 👋, I'm Gouranga Das Samrat</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourangadassamrat&label=Profile%20views&color=0e75b6&style=flat" alt="gourangadassamrat" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourangadassamrat" alt="gourangadassamrat" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GourangaDasSamrat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/gouranga_khulna" target="blank"><img src="https://img.shields.io/twitter/follow/gouranga_khulna?logo=twitter&style=for-the-badge" alt="gouranga_khulna" /></a> </p>
+###
 
-- 🔭 I’m currently working on **Machine Learning**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🌱 I’m currently learning **Node Js.**
+###
 
-- 💬 Ask me about **Node Js and Python.**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
-- 📫 How to reach me **gouranga.das.khulna@gmail.com**
+###
 
-- ⚡ Fun fact **I think I am funny🤣**
+<div align="left">
+  <a href="https://www.facebook.com/gourangadassamrat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/gouranga_khulna" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://bd.linkedin.com/in/gouranga-das-samrat-330311294" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gouranga.das.khulna/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://dev.to/gouranga-das-khulna" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+  </a>
+  <a href="https://codepen.io/gouranga-das-samrat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+  <a href="gouranga.das.khulna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/gouranga-das-samrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gouranga-das-samrat" height="30" width="40" /></a>
-<a href="https://dev.to/gouranga-das-khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gouranga-das-khulna" height="30" width="40" /></a>
-<a href="https://twitter.com/gouranga_khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gouranga_khulna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gouranga-das-samrat-330311294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gouranga-das-samrat-330311294" height="30" width="40" /></a>
-<a href="https://codesandbox.com/gouranga-das-khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gouranga-das-khulna" height="30" width="40" /></a>
-<a href="https://kaggle.com/gourangadassamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gourangadassamrat" height="30" width="40" /></a>
-<a href="https://fb.com/gourangadassamrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gourangadassamrat" height="30" width="40" /></a>
-<a href="https://instagram.com/gouranga.das.khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gouranga.das.khulna" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gourangakhulna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gourangakhulna" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gouranga_das_kh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gouranga_das_kh1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cqq98g0hw0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cqq98g0hw0" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/gouranga.das.khulna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gouranga.das.khulna" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cMK4fjvB72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cMK4fjvB72" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourangadassamrat&show_icons=true&locale=en&layout=compact" alt="gourangadassamrat" /></p>
+<img src="https://raw.githubusercontent.com/GourangaDasSamrat/GourangaDasSamrat/output/snake.svg" alt="Snake animation" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourangadassamrat&show_icons=true&locale=en" alt="gourangadassamrat" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourangadassamrat&" alt="gourangadassamrat" /></p>
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
