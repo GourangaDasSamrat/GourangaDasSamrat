@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Gouranga Das Samrart</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning<br>🌱 I’m currently learning NodeJs<br>💬 Ask me about Python and JavaScript <br>⚡ Fun fact You are funny 🤣
 
