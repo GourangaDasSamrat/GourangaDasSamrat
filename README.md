@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gouranga Das Samrat</h1>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />I'm Gouranga Das Samrat</h1>
 
 
 # 💫 About Me:
