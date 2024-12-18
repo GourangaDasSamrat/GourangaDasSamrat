@@ -2,7 +2,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>🌱 I’m currently learning NodeJs<br>💬 Ask me about Python and JavaScript <br>⚡ Fun fact You are funny 🤣
+- 🏦 I'm a Professional Web Developer in Bangladesh 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on Machine Learning<br>
+- 🌱 I’m currently learning NodeJs<br>
+- 💬 Ask me about Python and JavaScript <br>
+- ⚡ Fun fact You are funny 🤣
 
 
 ## 🌐 Socials:
