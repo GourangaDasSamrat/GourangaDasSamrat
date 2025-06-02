@@ -10,8 +10,8 @@
 - 🏦 I'm a Professional Web Developer in Bangladesh
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I’m currently working on Web Development<br>
-- 🌱 I’m currently learning Tailwind CSS<br>
-- 💬 Ask me about Python and JavaScript <br>
+- 🌱 I’m currently learning Next JS<br>
+- 💬 Ask me about Web Development and Web Design  <br>
 - 🎉 Fun Fact "🤷‍♂️ Found a mistake? Congrats, you’re now the official maintainer!"
 
 ## 🌐 Socials:
