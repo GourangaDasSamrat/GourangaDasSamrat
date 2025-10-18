@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />I'm Gouranga Das Samrat</h1>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />I'm Gouranga Das Samrat
 
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -95,9 +95,13 @@
   </a>
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Skills:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+- Frontend : JavaScript, TypeScript, React JS,
+Tailwind CSS, Bootstrap
+- Backend: Next JS, Node JS, Express JS
+- Database : MongoDB, MySQL
+- Tools: Git, GitHub,Docker,Figma
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
