@@ -9,7 +9,7 @@
 
 - 🏦 I'm a Professional Full Stack Web Developer in Bangladesh
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about Web Development and Web Design  <br>
+- 💬 Ask me about Web Development and Web Design <br>
 - 🎉 Fun Fact "🤷‍♂️ Found a mistake? Congrats, you’re now the official maintainer!"
 
 ## 🌐 Socials:
@@ -97,17 +97,63 @@
 
 ## 💻 Tech Skills:
 
-| Frontend | Backend | Databases | Tools |
-| --- | --- | --- | --- |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Programming Languages</th>
+        <th align="center">Frontend</th>
+        <th align="center">Backend</th>
+        <th align="center">Database</th>
+        <th align="center">DevOps</th>
+        <th align="center">Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"/></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"/></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"/></td>
+        <td align="center"></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50"/></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/></td>
+      </tr>
+      <tr>
+        <td align="center"></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"/></td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"></td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GourangaDasSamrat&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GourangaDasSamrat&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
