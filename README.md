@@ -187,7 +187,7 @@
     srcset="https://github-readme-stats-delta-six-92.vercel.app/api?username=GourangaDasSamrat&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&show_icons=true"/>
 </picture>
 
 <picture>
@@ -199,7 +199,23 @@
     srcset="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false" alt="GitHub Streak"/>
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=compact&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img 
+    src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=compact" 
+    alt="Top Languages"
+    style="width:65%;"
+  />
 </picture>
 </div>
 
