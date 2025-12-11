@@ -189,7 +189,18 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&show_icons=true" />
 </picture>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GourangaDasSamrat&theme=dracula&hide_border=false" alt="GitHub Streak" />
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&theme=dracula&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false" alt="GitHub Streak" />
+</picture>
 </div>
 
 ## ✍️ Random Dev Quote
