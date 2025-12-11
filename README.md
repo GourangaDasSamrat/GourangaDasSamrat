@@ -204,15 +204,15 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=compact&theme=dracula"
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie&theme=dracula"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=compact"
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img 
-    src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=compact" 
+    src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie" 
     alt="Top Languages"
   />
 </picture>
