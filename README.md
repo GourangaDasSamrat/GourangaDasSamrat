@@ -178,6 +178,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <picture>
+  <source
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api?username=GourangaDasSamrat&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api?username=GourangaDasSamrat&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&show_icons=true" />
+</picture>
   <img src="https://nirzak-streak-stats.vercel.app/?user=GourangaDasSamrat&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
