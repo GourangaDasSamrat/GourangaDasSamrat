@@ -161,20 +161,6 @@
   </table>
 </div>
 
-## ✍️ Dev Community Badges
-
-<div align="center">
-  <a href="https://dev.to/gouranga-das-khulna">
-    <img src="./img/dev-badges/angular.webp" width="75" height="75" alt="Angular Badge" />
-  </a>
-  <a href="https://dev.to/gouranga-das-khulna">
-    <img src="./img/dev-badges/one-year-club.webp" width="75" height="75" alt="One Year Club Badge" />
-  </a>
-  <a href="https://dev.to/gouranga-das-khulna">
-    <img src="./img/dev-badges/writing-debut.webp" width="75" height="75" alt="Writing Debut Badge" />
-  </a>
-</div>
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -216,6 +202,39 @@
     alt="Top Languages"
   />
 </picture>
+</div>
+
+## 🏆 GitHub Trophies 
+
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&theme=dracula&column=4&margin-w=15&margin-h=15"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&column=4&margin-w=15&margin-h=15"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img 
+    src="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&column=4&margin-w=15&margin-h=15" 
+    alt="Top Languages"
+  />
+</picture>
+</div>
+
+## ✍️ Dev Community Badges
+
+<div align="center">
+  <a href="https://dev.to/gouranga-das-khulna">
+    <img src="./img/dev-badges/angular.webp" width="75" height="75" alt="Angular Badge" />
+  </a>
+  <a href="https://dev.to/gouranga-das-khulna">
+    <img src="./img/dev-badges/one-year-club.webp" width="75" height="75" alt="One Year Club Badge" />
+  </a>
+  <a href="https://dev.to/gouranga-das-khulna">
+    <img src="./img/dev-badges/writing-debut.webp" width="75" height="75" alt="Writing Debut Badge" />
+  </a>
 </div>
 
 ## ✍️ Random Dev Quote
