@@ -204,7 +204,7 @@
 </picture>
 </div>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThubG1iY2R6d3pneGoxeTkxOTR4MnQ0aGs5M3pmZjIydTJkMngwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFD8cDR720OUmm5CAf/giphy.gif" width="55" alt="Coding icon" /> GitHub Trophies 
+## <img src="./img/extras/cup.gif" width="55" alt="Coding icon" /> GitHub Trophies 
 
 <div align="center">
 <picture>
