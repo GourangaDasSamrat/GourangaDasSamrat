@@ -214,7 +214,6 @@
   <img 
     src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=compact" 
     alt="Top Languages"
-    style="width:65%;"
   />
 </picture>
 </div>
