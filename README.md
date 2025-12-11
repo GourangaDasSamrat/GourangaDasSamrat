@@ -204,7 +204,7 @@
 </picture>
 </div>
 
-## <img src="./img/extras/cup.gif" width="55" alt="Coding icon" /> GitHub Trophies 
+## 🏆 GitHub Trophies 
 
 <div align="center">
 <picture>
