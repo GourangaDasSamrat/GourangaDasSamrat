@@ -10,7 +10,7 @@
 - 📝 Regular technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** <img src="./img/extras/pc.gif" width="23" alt="PC icon" />
 - 📫 Contact me: **gouranga.das.khulna@gmail.com** <img alt="Hmm GIF" src="./img/extras/hmm.gif" width="20" />
 - 💬 Ask me about Web Development and Web Design
-- ⚡ Fun fact: **I dream of traveling to Switzerland** <img align="center" src="./img/extras/face.gif" width="29" alt="Face GIF" />
+- ⚡ Fun fact: **​I dream to climb Mount Fuji.** <img align="center" src="./img/extras/face.gif" width="29" alt="Face GIF" />
 
 ## 🌐 Connect With Me
 
