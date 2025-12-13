@@ -70,90 +70,90 @@
     <tbody>
       <tr>
         <td align="center">
-          <img src="./img/skills/js-icon.svg" width="50" height="50" alt="JavaScript" /><br />
+          <img src="./img/icons/js-icon.svg" width="50" height="50" alt="JavaScript" /><br />
           JavaScript
         </td>
         <td align="center">
-          <img src="./img/skills/react-icon.svg" width="50" height="50" alt="React" /><br />
+          <img src="./img/icons/react-icon.svg" width="50" height="50" alt="React" /><br />
           React
         </td>
         <td align="center">
-          <img src="./img/skills/node.gif" width="50" height="50" alt="Node.js" /><br />
+          <img src="./img/icons/node-icon.gif" width="50" height="50" alt="Node.js" /><br />
           Node.js
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" /><br />
+          <img src="./img/icons/mongodb-icon.svg" width="50" height="50" alt="MongoDB" /><br />
           MongoDB
         </td>
         <td align="center">
-          <img src="./img/skills/docker-icon.svg" width="50" height="50" alt="Docker" /><br />
+          <img src="./img/icons/docker-icon.svg" width="50" height="50" alt="Docker" /><br />
           Docker
         </td>
         <td align="center">
-          <img src="./img/skills/git.gif" width="50" height="50" alt="Git" /><br />
+          <img src="./img/icons/git-icon.gif" width="50" height="50" alt="Git" /><br />
           Git
         </td>
       </tr>
       <tr>
         <td align="center">
-          <img src="./img/skills/ts-icon.svg" width="50" height="50" alt="TypeScript" /><br />
+          <img src="./img/icons/ts-icon.svg" width="50" height="50" alt="TypeScript" /><br />
           TypeScript
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js" /><br />
+          <img src="./img/icons/nextjs-icon.svg" width="50" height="50" alt="Next.js" /><br />
           Next.js
         </td>
         <td align="center">
-          <img src="./img/skills/expresss.gif" width="50" height="50" alt="Express.js" /><br />
+          <img src="./img/icons/express-icon.gif" width="50" height="50" alt="Express.js" /><br />
           Express.js
         </td>
         <td align="center">
-          <img src="./img/skills/mysql-icon.svg" width="50" height="50" alt="MySQL" /><br />
+          <img src="./img/icons/mysql-icon.svg" width="50" height="50" alt="MySQL" /><br />
           MySQL
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" /><br />
+          <img src="./img/icons/linux-icon.svg" width="50" height="50" alt="Linux" /><br />
           Linux
         </td>
         <td align="center">
-          <img src="./img/skills/github-icon.svg" width="50" height="50" alt="GitHub" /><br />
+          <img src="./img/icons/github-icon.svg" width="50" height="50" alt="GitHub" /><br />
           GitHub
         </td>
       </tr>
       <tr>
         <td align="center">
-          <img src="./img/skills/cpp-icon.svg" width="50" height="50" alt="C++" /><br />
+          <img src="./img/icons/cpp-icon.svg" width="50" height="50" alt="C++" /><br />
           C++
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" /><br />
+          <img src="./img/icons/tailwind-icon.svg" width="50" height="50" alt="Tailwind CSS" /><br />
           Tailwind
         </td>
         <td align="center">-</td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase" /><br />
+          <img src="./img/icons/firebase-icon.gif" width="50" height="50" alt="Firebase" /><br />
           Firebase
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="GitHub Actions" /><br />
+          <img src="./img/icons/githubActions-icon.svg" width="50" height="50" alt="GitHub Actions" /><br />
           Actions
         </td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" /><br />
+          <img src="./img/icons/figma-icon.svg" width="50" height="50" alt="Figma" /><br />
           Figma
         </td>
       </tr>
       <tr>
         <td align="center">-</td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" /><br />
+          <img src="./img/icons/bootstrap-icon.svg" width="50" height="50" alt="Bootstrap" /><br />
           Bootstrap
         </td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" /><br />
+          <img src="./img/icons/postman-icon.svg" width="50" height="50" alt="Postman" /><br />
           Postman
         </td>
       </tr>
@@ -197,14 +197,14 @@
     srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img 
-    src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie" 
+  <img
+    src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie"
     alt="Top Languages"
   />
 </picture>
 </div>
 
-## 🏆 GitHub Trophies 
+## 🏆 GitHub Trophies
 
 <div align="center">
 <picture>
@@ -216,8 +216,8 @@
     srcset="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&column=4&margin-w=15&margin-h=15"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img 
-    src="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&column=4&margin-w=15&margin-h=15" 
+  <img
+    src="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&column=4&margin-w=15&margin-h=15"
     alt="Top Languages"
   />
 </picture>
