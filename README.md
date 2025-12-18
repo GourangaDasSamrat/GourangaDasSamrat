@@ -6,14 +6,14 @@
 
 ## <img src="./img/extras/coder-2.gif" width="45" alt="Coding icon" /> About Me
 
-- 🏦 Professional Full Stack Developer based in Bangladesh <img src="./img/extras/typing.gif" width="30" alt="Typing animation" />
-- 📝 Regular technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** <img src="./img/extras/pc.gif" width="23" alt="PC icon" />
-- 📫 Contact me: **gouranga.das.khulna@gmail.com** <img alt="Hmm GIF" src="./img/extras/hmm.gif" width="20" />
-- 💬 Ask me about Web Development and Web Design
+- 🏦 Full Stack Developer specializing in scalable MERN stack applications
+- 💼 Building production-ready solutions with focus on performance, maintainability & user experience
+- 📝 Technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** sharing modern web development insights
 - 🧪 Maintains public learning archives (`*-labs`) to document long-term growth and experimentation
-- ⚡ Fun fact: **I dream to climb Mount Fuji.** <img align="center" src="./img/extras/face.gif" width="29" alt="Face GIF" />
-
-  
+- 👇 Check out my **pinned repositories** below for featured projects
+- 📫 Reach me at: **gouranga.das.khulna@gmail.com**
+- ⚡ Fun fact: **I dream to climb Mount Fuji** 🗻
+    
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -55,113 +55,41 @@
   </a>
 </div>
 
-## <img src="./img/extras/pc.gif" width="35" alt="Coding icon" /> Tech Stack
+## 🛠️ Tech Stacks
 
 <div align="center">
   <table>
-    <thead>
-      <tr>
-        <th>Programming Languages</th>
-        <th>Frontend</th>
-        <th>Backend</th>
-        <th>Database</th>
-        <th>DevOps</th>
-        <th>Tools</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <img src="./img/icons/js-icon.svg" width="50" height="50" alt="JavaScript" /><br />
-          JavaScript
-        </td>
-        <td align="center">
-          <img src="./img/icons/react-icon.svg" width="50" height="50" alt="React" /><br />
-          React
-        </td>
-        <td align="center">
-          <img src="./img/icons/node-icon.gif" width="50" height="50" alt="Node.js" /><br />
-          Node.js
-        </td>
-        <td align="center">
-          <img src="./img/icons/mongodb-icon.svg" width="50" height="50" alt="MongoDB" /><br />
-          MongoDB
-        </td>
-        <td align="center">
-          <img src="./img/icons/docker-icon.svg" width="50" height="50" alt="Docker" /><br />
-          Docker
-        </td>
-        <td align="center">
-          <img src="./img/icons/git-icon.gif" width="50" height="50" alt="Git" /><br />
-          Git
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./img/icons/ts-icon.svg" width="50" height="50" alt="TypeScript" /><br />
-          TypeScript
-        </td>
-        <td align="center">
-          <img src="./img/icons/nextjs-icon.svg" width="50" height="50" alt="Next.js" /><br />
-          Next.js
-        </td>
-        <td align="center">
-          <img src="./img/icons/express-icon.gif" width="50" height="50" alt="Express.js" /><br />
-          Express.js
-        </td>
-        <td align="center">
-          <img src="./img/icons/mysql-icon.svg" width="50" height="50" alt="MySQL" /><br />
-          MySQL
-        </td>
-        <td align="center">
-          <img src="./img/icons/linux-icon.svg" width="50" height="50" alt="Linux" /><br />
-          Linux
-        </td>
-        <td align="center">
-          <img src="./img/icons/github-icon.svg" width="50" height="50" alt="GitHub" /><br />
-          GitHub
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="./img/icons/cpp-icon.svg" width="50" height="50" alt="C++" /><br />
-          C++
-        </td>
-        <td align="center">
-          <img src="./img/icons/tailwind-icon.svg" width="50" height="50" alt="Tailwind CSS" /><br />
-          Tailwind
-        </td>
-        <td align="center">-</td>
-        <td align="center">
-          <img src="./img/icons/firebase-icon.gif" width="50" height="50" alt="Firebase" /><br />
-          Firebase
-        </td>
-        <td align="center">
-          <img src="./img/icons/githubActions-icon.svg" width="50" height="50" alt="GitHub Actions" /><br />
-          Actions
-        </td>
-        <td align="center">
-          <img src="./img/icons/figma-icon.svg" width="50" height="50" alt="Figma" /><br />
-          Figma
-        </td>
-      </tr>
-      <tr>
-        <td align="center">-</td>
-        <td align="center">
-          <img src="./img/icons/bootstrap-icon.svg" width="50" height="50" alt="Bootstrap" /><br />
-          Bootstrap
-        </td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">
-          <img src="./img/icons/postman-icon.svg" width="50" height="50" alt="Postman" /><br />
-          Postman
-        </td>
-      </tr>
-    </tbody>
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td>JavaScript • TypeScript • C++</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Frontend</strong></td>
+      <td>React • Next.js • Tailwind CSS • Bootstrap</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Backend</strong></td>
+      <td>Node.js • Express • REST APIs</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Database</strong></td>
+      <td>MongoDB • MySQL • Firebase</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>DevOps</strong></td>
+      <td>Docker • Linux • GitHub Actions</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tools</strong></td>
+      <td>Git • GitHub • Postman • Figma</td>
+    </tr>
   </table>
 </div>
+
+<p align="center">
+  <em>I focus on fundamentals, trade-offs, and long-term maintainability rather than tool memorization.</em><br/>
+  <em>Open to challenging projects that push technical boundaries and deliver real user value.</em>
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -223,26 +151,6 @@
     alt="Top Languages"
   />
 </picture>
-</div>
-
-## ✍️ Dev Community Badges
-
-<div align="center">
-  <a href="https://dev.to/gouranga-das-khulna">
-    <img src="./img/dev-badges/angular.webp" width="75" height="75" alt="Angular Badge" />
-  </a>
-  <a href="https://dev.to/gouranga-das-khulna">
-    <img src="./img/dev-badges/one-year-club.webp" width="75" height="75" alt="One Year Club Badge" />
-  </a>
-  <a href="https://dev.to/gouranga-das-khulna">
-    <img src="./img/dev-badges/writing-debut.webp" width="75" height="75" alt="Writing Debut Badge" />
-  </a>
-</div>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ## 🐍 Contribution Graph
