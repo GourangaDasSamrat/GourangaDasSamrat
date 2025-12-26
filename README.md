@@ -11,7 +11,7 @@
 - 📝 Technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** sharing modern web development insights
 - 🧪 Maintains public learning archives (`*-labs`) to document long-term growth and experimentation
 - 👇 Check out my **pinned repositories** below for featured projects
-- 📫 Reach me at: **gouranga.das.khulna@gmail.com**
+- 📫 Reach me at: **gouranga.samrat@gmail.com**
 - ⚡ Fun fact: **I dream to climb Mount Fuji** 🗻
     
 ## 🌐 Connect With Me
@@ -50,7 +50,7 @@
   <a href="https://discord.gg/jnZStfKW7v" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:gouranga.das.khulna@gmail.com">
+  <a href="mailto:gouranga.samrat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
