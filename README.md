@@ -61,7 +61,7 @@
   <table>
     <tr>
       <td align="center"><strong>Languages</strong></td>
-      <td>JavaScript • TypeScript • C++</td>
+      <td>JavaScript • TypeScript • C/C++</td>
     </tr>
     <tr>
       <td align="center"><strong>Frontend</strong></td>
