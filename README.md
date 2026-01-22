@@ -134,25 +134,6 @@
 </picture>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&theme=dracula&column=4&margin-w=15&margin-h=15"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&column=4&margin-w=15&margin-h=15"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-profile-trophy-ebon-mu.vercel.app//?username=GourangaDasSamrat&column=4&margin-w=15&margin-h=15"
-    alt="Top Languages"
-  />
-</picture>
-</div>
-
 ## 🐍 Contribution Graph
 
 <div align="center">
