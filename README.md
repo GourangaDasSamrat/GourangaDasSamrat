@@ -58,10 +58,11 @@
 ## 🛠️ Tech Stacks
 
 <div align="center">
+  <h2>🛠️ Tech Stack & Skills</h2>
   <table>
     <tr>
-      <td align="center"><strong>Languages</strong></td>
-      <td>JavaScript • TypeScript • C/C++</td>
+      <td align="center" width="150"><strong>Languages</strong></td>
+      <td>JavaScript • TypeScript • Go • C++ • C • Python</td>
     </tr>
     <tr>
       <td align="center"><strong>Frontend</strong></td>
@@ -69,19 +70,23 @@
     </tr>
     <tr>
       <td align="center"><strong>Backend</strong></td>
-      <td>Node.js • Express • REST APIs</td>
+      <td>Node.js • Express • Flask • REST APIs</td>
     </tr>
     <tr>
       <td align="center"><strong>Database</strong></td>
       <td>MongoDB • MySQL • Firebase</td>
     </tr>
     <tr>
-      <td align="center"><strong>DevOps</strong></td>
-      <td>Docker • Linux • GitHub Actions</td>
+      <td align="center"><strong>DevOps & Cloud</strong></td>
+      <td>Docker • Linux • GitHub Actions • CI/CD</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Documentation</strong></td>
+      <td>Markdown • Mermaid • LaTeX</td>
     </tr>
     <tr>
       <td align="center"><strong>Tools</strong></td>
-      <td>Git • GitHub • Postman • Figma</td>
+      <td>Git • GitHub • Postman</td>
     </tr>
   </table>
 </div>
