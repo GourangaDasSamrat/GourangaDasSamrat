@@ -58,7 +58,6 @@
 ## 🛠️ Tech Stacks
 
 <div align="center">
-  <h2>🛠️ Tech Stack & Skills</h2>
   <table>
     <tr>
       <td align="center" width="150"><strong>Languages</strong></td>
