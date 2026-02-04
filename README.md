@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td align="center"><strong>Frontend</strong></td>
-      <td>React • Next.js • Tailwind CSS • Bootstrap</td>
+      <td>React • Next.js • Redux • TanStack Query • Tailwind CSS • Bootstrap</td>
     </tr>
     <tr>
       <td align="center"><strong>Backend</strong></td>
