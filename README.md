@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td align="center"><strong>Tools</strong></td>
-      <td>Git • GitHub • Postman </td>
+      <td>Git • GitHub • Postman • Neovim • VS Code</td>
     </tr>
   </table>
 </div>
