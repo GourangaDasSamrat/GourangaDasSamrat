@@ -84,8 +84,12 @@
       <td>Markdown • Mermaid • LaTeX</td>
     </tr>
     <tr>
-      <td align="center"><strong>Tools</strong></td>
+      <td align="center"><strong>Tools & Editors</strong></td>
       <td>Git • GitHub • Postman • Neovim • VS Code</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Design</strong></td>
+      <td>Figma</td>
     </tr>
   </table>
 </div>
