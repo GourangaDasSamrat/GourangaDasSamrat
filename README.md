@@ -6,7 +6,7 @@
 
 ## <img src="./img/extras/coder-2.gif" width="45" alt="Coding icon" /> About Me
 
-- 🏦 Software Developer specializing in system design and devops.
+- 🏦 Software Engineer specializing in system design and devops.
 - 💼 Building production-ready solutions with focus on performance, maintainability & user experience
 - 📝 Technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** sharing modern web development insights
 - 🧪 Maintains public learning archives (`*-labs`) to document long-term growth and experimentation
