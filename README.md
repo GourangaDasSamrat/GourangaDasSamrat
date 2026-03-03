@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td align="center"><strong>Backend</strong></td>
-      <td>Node.js • Express • Flask • REST APIs</td>
+      <td>Node.js • Express • Prisma • Flask • REST APIs</td>
     </tr>
     <tr>
       <td align="center"><strong>Database</strong></td>
