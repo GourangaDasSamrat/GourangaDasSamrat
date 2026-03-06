@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td align="center"><strong>Database</strong></td>
-      <td>MongoDB • PostgreSQL • Firebase • Prisma(ORM)</td>
+      <td>MongoDB • PostgreSQL • MySQL • Firebase</td>
     </tr>
     <tr>
       <td align="center"><strong>DevOps & Cloud</strong></td>
