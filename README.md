@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td align="center"><strong>Tools & Editors</strong></td>
-      <td>Git • GitHub • Postman • Neovim • VS Code</td>
+      <td>Git • GitHub • Postman</td>
     </tr>
     <tr>
       <td align="center"><strong>Design</strong></td>
