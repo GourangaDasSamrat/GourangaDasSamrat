@@ -13,7 +13,7 @@
 - 👇 Check out my **pinned repositories** below for featured projects
 - 📫 Reach me at: **gouranga.samrat@gmail.com**
 - ⚡ Fun fact: **I dream to climb Mount Fuji** 🗻
-    
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td align="center"><strong>Backend</strong></td>
-      <td>Node.js • Express • Flask • REST APIs</td>
+      <td>Node.js • Express • Nest.jS • Fastify</td>
     </tr>
     <tr>
       <td align="center"><strong>Database</strong></td>
