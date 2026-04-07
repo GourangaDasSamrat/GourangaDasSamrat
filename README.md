@@ -61,7 +61,7 @@
   <table>
     <tr>
       <td align="center" width="150"><strong>Languages</strong></td>
-      <td>JavaScript • TypeScript • Go • C++ • C • Python</td>
+      <td>JavaScript • TypeScript • Go • C++ • C • Python • Lua</td>
     </tr>
     <tr>
       <td align="center"><strong>Frontend</strong></td>
@@ -85,7 +85,7 @@
     </tr>
     <tr>
       <td align="center"><strong>Tools & Editors</strong></td>
-      <td>Git • GitHub • Postman</td>
+      <td>Git • GitHub • Nginx • Postman</td>
     </tr>
     <tr>
       <td align="center"><strong>Design</strong></td>
