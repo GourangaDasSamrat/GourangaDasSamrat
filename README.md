@@ -44,9 +44,6 @@
   <a href="https://dev.to/gouranga-das-khulna/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://gourangadassamrat.blogspot.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
-  </a>
   <a href="https://discord.gg/jnZStfKW7v" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
