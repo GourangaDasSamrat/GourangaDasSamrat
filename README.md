@@ -1,57 +1,58 @@
-# Hi there! <img src="./img/extras/Hi.gif" width="35" alt="Wave" /> I'm Gouranga Das Samrat
-
 <div align="center">
-  <img src="./img/extras/coder.gif" alt="Coding animation" width="500" />
+
+<!-- Dynamic Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gouranga+%F0%9F%91%8B;Software+Developer+%7C+System+Design;DevOps+%7C+Full-Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GourangaDasSamrat&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+&nbsp;
+<a href="https://github.com/GourangaDasSamrat?tab=followers">
+  <img src="https://img.shields.io/github/followers/GourangaDasSamrat?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen?style=flat-square" alt="Open to work" />
+
 </div>
 
-## <img src="./img/extras/coder-2.gif" width="45" alt="Coding icon" /> About Me
+---
 
-- 🏦 Software Developer specializing in system design and devops.
-- 💼 Building production-ready solutions with focus on performance, maintainability & user experience
-- 📝 Technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** sharing modern software development insights
-- 📝 See all blogs **[here](https://blog.gouranga.eu.org)**
-- 🧪 Maintains public learning archives (`*-labs`) to document long-term growth and experimentation
-- 👇 Check out my **pinned repositories** below for featured projects
-- 📫 Reach me at: **gouranga.samrat@gmail.com**
-- ⚡ Fun fact: **I dream to climb Mount Fuji** 🗻
+## 👨‍💻 About Me
 
-## 🌐 Connect With Me
+I'm a **Software Developer** based in Khulna, Bangladesh — focused on building **production-grade systems** with an emphasis on performance, clean architecture, and long-term maintainability.
+
+- 🏗️ &nbsp;Specializing in **system design**, **DevOps pipelines**, and **full-stack web engineering**
+- 🌐 &nbsp;Personal portfolio at **[gouranga.eu.org](https://gouranga.eu.org)** — projects, work, and more
+- 📝 &nbsp;Technical writer — articles published on **[Dev.to](https://dev.to/gouranga-das-khulna/)**, aggregated at **[blog.gouranga.eu.org](https://blog.gouranga.eu.org)**
+- 🧪 &nbsp;Maintains public `*-labs` repositories for long-term learning documentation and experimentation
+- 🎯 &nbsp;Prioritizes **fundamentals, trade-offs, and scalability** over tool familiarity
+- 🗻 &nbsp;Dream: Summit **Mount Fuji**
+- 📫 &nbsp;Reach me at **[gouranga.samrat@gmail.com](mailto:gouranga.samrat@gmail.com)**
+
+---
+
+## 🌐 Connect
 
 <div align="center">
-  <a href="https://www.facebook.com/gourangadassamrat" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://x.com/gouranga_khulna" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://bsky.app/profile/gouranga-khulna.bsky.social" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-  </a>
-  <a href="https://linkedin.com/in/gouranga-das-samrat" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://codepen.io/gouranga-das-samrat" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  <a href="https://leetcode.com/u/gourangadassamrat/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/gouranga_das_kh1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://medium.com/@gouranga.das.khulna" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://dev.to/gouranga-das-khulna/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://discord.gg/jnZStfKW7v" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:gouranga.samrat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://gouranga.eu.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouranga-das-samrat)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://blog.gouranga.eu.org)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gouranga-das-khulna/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gouranga_Khulna)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gourangadassamrat/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/gouranga_das_kh1)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gouranga_khulna)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/gouranga-khulna.bsky.social)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gourangadassamrat)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gouranga-das-samrat)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jnZStfKW7v)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouranga.samrat@gmail.com)
+
 </div>
+
+---
+
 
 ## 🛠️ Tech Stacks
 
@@ -157,4 +158,10 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=GourangaDasSamrat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
+</div>
+
+---
+ 
+<div align="center">
+  <sub>Crafted with precision by <strong>Gouranga Das Samrat</strong> · Building systems that scale · <a href="https://gouranga.eu.org">gouranga.eu.org</a> · <a href="https://blog.gouranga.eu.org">blog.gouranga.eu.org</a></sub>
 </div>
