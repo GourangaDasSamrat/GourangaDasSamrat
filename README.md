@@ -8,7 +8,8 @@
 
 - 🏦 Software Developer specializing in system design and devops.
 - 💼 Building production-ready solutions with focus on performance, maintainability & user experience
-- 📝 Technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** sharing modern web development insights
+- 📝 Technical writer on **[Dev.to](https://dev.to/gouranga-das-khulna/)** sharing modern software development insights
+- 📝 See all blogs **[here](https://blog.gouranga.eu.org)**
 - 🧪 Maintains public learning archives (`*-labs`) to document long-term growth and experimentation
 - 👇 Check out my **pinned repositories** below for featured projects
 - 📫 Reach me at: **gouranga.samrat@gmail.com**
