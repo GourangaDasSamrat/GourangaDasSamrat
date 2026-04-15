@@ -35,6 +35,7 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 
 <div align="center">
 
+[![All Links](https://img.shields.io/badge/All%20Links-bio.gouranga.eu.org-6E40C9?style=for-the-badge&logo=linktree&logoColor=white)](https://bio.gouranga.eu.org/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://gouranga.eu.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gouranga-das-samrat)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://blog.gouranga.eu.org)
