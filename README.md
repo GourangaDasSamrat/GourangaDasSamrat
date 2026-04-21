@@ -162,7 +162,7 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 </div>
 
 ---
- 
+
 <div align="center">
   <sub>Crafted with precision by <strong>Gouranga Das Samrat</strong> · Building systems that scale · <a href="https://gouranga.eu.org">gouranga.eu.org</a> · <a href="https://blog.gouranga.eu.org">blog.gouranga.eu.org</a></sub>
-</div>
+      </div>
