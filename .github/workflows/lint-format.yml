@@ -167,10 +167,8 @@ jobs:
             **Note:** This PR was automatically created by the Lint & Format workflow.
           branch: chore/prettier-format
           delete-branch: true
-          labels: |
-            chore
-            automated
-          reviewers: ${{ github.actor }}
+          labels: 'chore,automated'
+          reviewers: '${{ github.actor }}'
 
       - name: Print Summary
         run: |
