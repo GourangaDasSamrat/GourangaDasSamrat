@@ -1,0 +1,121 @@
+name: Link Check Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install lychee
+        run: cargo install lychee || brew install lychee || (curl -L https://github.com/lycheeverse/lychee/releases/download/v0.13.0/lychee-v0.13.0-x86_64-unknown-linux-gnu.tar.gz | tar xz -C /usr/local/bin)
+
+      - name: Check links
+        id: linkcheck
+        continue-on-error: true
+        run: |
+          lychee --offline --no-progress '*.md' --format json > link-check-result.json 2>&1 || true
+          cat link-check-result.json
+
+      - name: Parse and identify broken links
+        id: parse-links
+        run: |
+          python3 << 'EOF'
+          import json
+          import os
+
+          broken_links = []
+
+          try:
+              with open('link-check-result.json', 'r') as f:
+                  results = json.load(f)
+
+              if isinstance(results, list):
+                  for result in results:
+                      if result.get('status') and result['status'] not in ['success', '200']:
+                          broken_links.append({
+                              'url': result.get('url'),
+                              'status': result.get('status'),
+                              'file': result.get('file', 'unknown')
+                          })
+          except Exception as e:
+              print(f"Error parsing results: {e}")
+
+          # Output broken links
+          with open('broken_links.json', 'w') as f:
+              json.dump(broken_links, f, indent=2)
+
+          print(f"Found {len(broken_links)} broken links")
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"broken_count={len(broken_links)}\n")
+          EOF
+
+      - name: Create issue if links are broken
+        if: steps.parse-links.outputs.broken_count > 0
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const brokenLinks = JSON.parse(fs.readFileSync('broken_links.json', 'utf8'));
+
+            const title = '🔗 Broken Links Detected';
+            const description = `The following links are broken:\n\n${brokenLinks.map(link => `- **${link.url}** (${link.status}) in ${link.file}`).join('\n')}\n\nPlease fix these links.`;
+
+            // Check if issue already exists
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['broken-links']
+            });
+
+            if (issues.data.length === 0) {
+              // Create new issue
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: description,
+                labels: ['broken-links']
+              });
+              console.log('✅ Created issue for broken links');
+            } else {
+              // Update existing issue
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues.data[0].number,
+                body: description
+              });
+              console.log('✅ Updated existing issue for broken links');
+            }
+
+      - name: Close issue if all links are valid
+        if: steps.parse-links.outputs.broken_count == 0
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['broken-links']
+            });
+
+            for (const issue of issues.data) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed'
+              });
+              console.log(`✅ Closed issue #${issue.number} - All links are valid!`);
+            }

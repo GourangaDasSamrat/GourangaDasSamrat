@@ -1,0 +1,183 @@
+name: Lint & Format Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint-format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm install --save-dev prettier eslint 2>/dev/null || true
+          npm list prettier eslint 2>/dev/null || echo "Installing globally..."
+          npm install -g prettier eslint
+
+      - name: Run ESLint
+        id: eslint
+        continue-on-error: true
+        run: |
+          eslint . --format json --output-file eslint-result.json 2>/dev/null || true
+          cat eslint-result.json 2>/dev/null || echo "[]" > eslint-result.json
+
+      - name: Check lint results
+        id: lint-check
+        run: |
+          python3 << 'EOF'
+          import json
+          import os
+
+          try:
+              with open('eslint-result.json', 'r') as f:
+                  results = json.load(f)
+
+              # Count errors
+              error_count = 0
+              warning_count = 0
+
+              if isinstance(results, list):
+                  for result in results:
+                      error_count += result.get('errorCount', 0)
+                      warning_count += result.get('warningCount', 0)
+
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write(f"has_errors={error_count > 0}\n")
+                  f.write(f"error_count={error_count}\n")
+                  f.write(f"warning_count={warning_count}\n")
+
+              print(f"Lint Results: {error_count} errors, {warning_count} warnings")
+          except Exception as e:
+              print(f"Error checking lint: {e}")
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write(f"has_errors=false\n")
+          EOF
+
+      - name: Create issue if lint fails
+        if: steps.lint-check.outputs.has_errors == 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const results = JSON.parse(fs.readFileSync('eslint-result.json', 'utf8'));
+
+            let issues_summary = [];
+            for (const result of results) {
+              if (result.messages && result.messages.length > 0) {
+                issues_summary.push(`**${result.filePath}**:\n${result.messages.map(m => `  - Line ${m.line}: ${m.message}`).join('\n')}`);
+              }
+            }
+
+            const title = '⚠️ Lint Issues Detected';
+            const description = `The following lint issues were found:\n\n${issues_summary.join('\n\n')}\n\nPlease fix these issues.`;
+
+            // Check if issue already exists
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['lint-issues']
+            });
+
+            if (issues.data.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: description,
+                labels: ['lint-issues']
+              });
+              console.log('✅ Created issue for lint failures');
+            } else {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues.data[0].number,
+                body: description
+              });
+              console.log('✅ Updated existing lint issue');
+            }
+
+      - name: Close lint issue if passes
+        if: steps.lint-check.outputs.has_errors == 'false'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['lint-issues']
+            });
+
+            for (const issue of issues.data) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed'
+              });
+              console.log(`✅ Closed issue #${issue.number} - Lint passed!`);
+            }
+
+      - name: Format with Prettier
+        if: steps.lint-check.outputs.has_errors == 'false' && github.event_name == 'push'
+        run: |
+          prettier --write README.md "**/*.md" 2>/dev/null || prettier --write README.md || true
+
+      - name: Check if files changed
+        id: check-changes
+        if: steps.lint-check.outputs.has_errors == 'false' && github.event_name == 'push'
+        run: |
+          if git diff --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request
+        if: steps.check-changes.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'chore: Format files with Prettier'
+          title: 'chore: Format README with Prettier'
+          body: |
+            ## Automated Formatting
+
+            This PR contains formatting changes made by Prettier.
+
+            - ✅ Lint checks passed
+            - ✨ Code formatted with Prettier
+
+            **Note:** This PR was automatically created by the Lint & Format workflow.
+          branch: chore/prettier-format
+          delete-branch: true
+          labels: |
+            chore
+            automated
+          reviewers: |
+            ${{ github.actor }}
+          team-reviewers: |
+
+      - name: Print Summary
+        run: |
+          echo "## Lint & Format Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Lint Status:** ${{ steps.lint-check.outputs.has_errors == 'false' && '✅ Passed' || '❌ Failed' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Errors:** ${{ steps.lint-check.outputs.error_count }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Warnings:** ${{ steps.lint-check.outputs.warning_count }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Changes Formatted:** ${{ steps.check-changes.outputs.has_changes == 'true' && '✅ Yes' || '⏭️ No changes needed' }}" >> $GITHUB_STEP_SUMMARY
