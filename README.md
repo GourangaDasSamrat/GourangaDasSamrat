@@ -59,10 +59,15 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="150"><strong>Languages</strong></td>
-      <td>JavaScript • TypeScript • Go • C++ • C • Python • Lua</td>
+        <tr>
+      <td align="center" width="150"><strong>Core Languages</strong></td>
+      <td>JavaScript • TypeScript • Go • C++</td>
     </tr>
+    <tr>
+      <td align="center" width="150"><strong>Familiar With</strong></td>
+      <td>Python • C • Lua</td>
+    </tr>
+    <tr>
     <tr>
       <td align="center"><strong>Frontend</strong></td>
       <td>React • Next.js • Redux • TanStack Query • Tailwind CSS • Bootstrap</td>
