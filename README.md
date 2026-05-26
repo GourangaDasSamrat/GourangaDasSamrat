@@ -61,7 +61,7 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
   <table>
         <tr>
       <td align="center" width="150"><strong>Core Languages</strong></td>
-      <td>JavaScript • TypeScript • Go • C++</td>
+      <td>JavaScript • TypeScript • Go • Rust • C++</td>
     </tr>
     <tr>
       <td align="center" width="150"><strong>Familiar With</strong></td>
