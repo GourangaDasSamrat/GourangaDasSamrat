@@ -88,14 +88,6 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
       <td align="center"><strong>Documentation</strong></td>
       <td>Markdown • Mermaid • LaTeX</td>
     </tr>
-    <tr>
-      <td align="center"><strong>Tools & Editors</strong></td>
-      <td>Git • GitHub • Nginx • Postman</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Design</strong></td>
-      <td>Figma</td>
-    </tr>
   </table>
 </div>
 
