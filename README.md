@@ -112,14 +112,14 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 
 <picture>
   <source
-    srcset="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&theme=dracula&hide_border=false"
+    srcset="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&theme=dracula&hide_border=false&zone=Asia/Dhaka&v=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false"
+    srcset="https://github-readme-streak-stats-wine-phi.vercel.gapp/?user=GourangaDasSamrat&hide_border=false&zone=Asia/Dhaka&v=1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false&zone=Asia/Dhaka&v=1" alt="GitHub Streak"/>
 </picture>
 
 <picture>
