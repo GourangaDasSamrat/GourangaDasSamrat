@@ -100,11 +100,11 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 <div align="center">
   <picture>
   <source
-    srcset="https://github-readme-stats-delta-six-92.vercel.app/api?username=GourangaDasSamrat&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api?username=GourangaDasSamrat&show_icons=true&theme=dracula&v=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-delta-six-92.vercel.app/api?username=GourangaDasSamrat&show_icons=true"
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api?username=GourangaDasSamrat&show_icons=true&v=1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GourangaDasSamrat&show_icons=true"/>
@@ -124,15 +124,15 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 
 <picture>
   <source
-    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie&theme=dracula"
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie&theme=dracula&v=1"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie"
+    srcset="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie&v=1"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-    src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie"
+    src="https://github-readme-stats-delta-six-92.vercel.app/api/top-langs/?username=GourangaDasSamrat&layout=pie&v=1"
     alt="Top Languages"
   />
 </picture>
