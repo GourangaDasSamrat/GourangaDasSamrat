@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gouranga+%F0%9F%91%8B;Software+Developer+%7C+System+Design;DevOps+%7C+Full-Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Gouranga+%F0%9F%91%8B;Software+Developer+%7C+System+Design;DevOps+%7C+Full-Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -158,7 +158,7 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 </div>
 
 ---
- 
+
 <div align="center">
   <sub>Crafted with precision by <strong>Gouranga Das Samrat</strong> · Building systems that scale · <a href="https://gouranga.eu.org">gouranga.eu.org</a> · <a href="https://blog.gouranga.eu.org">blog.gouranga.eu.org</a></sub>
 </div>
