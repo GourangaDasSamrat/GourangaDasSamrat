@@ -152,9 +152,6 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 
 <div align="center">
   <p>Made with <img src="./img/extras/hearts_gif.gif" width="25" height="25" alt="love" /> by Gouranga Das Samrat</p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=GourangaDasSamrat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
 </div>
 
 ---
