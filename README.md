@@ -138,6 +138,38 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 </picture>
 </div>
 
+## 🛠️ Stuff I maintain
+
+<table align="center">
+  <tbody align="center">
+    <tr>
+      <td><a href="https://repology.org/project/goimports/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/goimports.svg?header=Goimports" title="Goimports">
+      </a></td>
+      <td><a href="https://repology.org/project/golangci-lint/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/golangci-lint.svg?header=Golangci-lint" title="Golangci-lint">
+      </a></td>
+      <td><a href="https://repology.org/project/gotests/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/gotests.svg?header=Gotests" title="Gotests">
+      </a></td>
+      <td><a href="https://repology.org/project/air-go/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/air-live-reload.svg?header=Air" title="Air">
+      </a></td>
+    </tr>
+    <tr>
+      <td><a href="https://repology.org/project/goreleaser/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/goreleaser.svg?header=Goreleaser" title="Goreleaser">
+      </a></td>
+      <td><a href="https://repology.org/project/govulncheck/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/govulncheck.svg?header=Govulncheck" title="Govulncheck">
+      </a></td>
+      <td><a href="https://repology.org/project/proton-pass-cli/versions">
+        <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" title="Proton Pass CLI">
+      </a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🐍 Contribution Graph
 
 <div align="center">
