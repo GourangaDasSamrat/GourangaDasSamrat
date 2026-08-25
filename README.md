@@ -143,6 +143,9 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
 <table align="center">
   <tbody align="center">
     <tr>
+      <td><h5>
+        <a href="https://github.com/termux/termux-packages">Termux Repos:</a>
+      </h5></td>
       <td><a href="https://repology.org/project/goimports/versions">
         <img src="https://repology.org/badge/version-for-repo/termux/goimports.svg?header=Goimports" title="Goimports">
       </a></td>
@@ -170,9 +173,20 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         <img src="https://repology.org/badge/version-for-repo/termux/git-cliff.svg?header=Git-cliff" title="Git cliff">
       </a></td>
     </tr>
-    <tr>    
+  </tbody>
+</table>
+
+<table align="center">
+  <tbody align="center">  
+     <tr>
+      <td><h5>
+        <a href="https://github.com/termux-user-repository/tur">TUR Repos:</a>
+      </h5></td>    
       <td><a href="https://repology.org/project/fonts%3Anerd-fonts/versions">
         <img src="https://repology.org/badge/version-for-repo/tur/fonts%3Anerd-fonts.svg?header=Nerd-fonts" title="Nerd fonts">
+      </a></td>
+      <td><a href="https://repology.org/project/bun/versions">
+        <img src="https://repology.org/badge/version-for-repo/tur/bun.svg?header=Bun" title="Bun">
       </a></td>
     </tr>
   </tbody>
