@@ -79,7 +79,7 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
   <em>Open to challenging projects that push technical boundaries and deliver real user value.</em>
 </p>
 
-## 🛠️ Stuff I maintain
+## 📦 Stuff I maintain
 
 <table align="center">
   <tbody align="center">
@@ -198,7 +198,7 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats-wine-phi.vercel.gapp/?user=GourangaDasSamrat&hide_border=false&zone=Asia/Dhaka&v=1"
+      srcset="https://github-readme-streak-stats-wine-phi.vercel.app/?user=GourangaDasSamrat&hide_border=false&zone=Asia/Dhaka&v=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
