@@ -112,6 +112,11 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
     </tr>
     <tr>
       <td>
+        <a href="https://repology.org/project/gotestsum/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/gotestsum.svg?header=Gotestsum" title="Gotestsum" />
+        </a>
+      </td>
+      <td>
         <a href="https://repology.org/project/goreleaser/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/goreleaser.svg?header=Goreleaser" title="Goreleaser" />
         </a>
@@ -122,13 +127,35 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         </a>
       </td>
       <td>
-        <a href="https://repology.org/project/proton-pass-cli/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" title="Proton Pass CLI" />
+        <a href="https://repology.org/project/go:migrate/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/go:migrate.svg?header=Gomigrate" title="Go migrate" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/git-cliff/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/git-cliff.svg?header=Git%20cliff" title="Git cliff" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://repology.org/project/git-absorb/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/git-absorb.svg?header=Git%20absorb" title="Git absorb" />
+        </a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/gtrash/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/gtrash.svg?header=gtrash" title="gtrash" />
+        </a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/proton-pass-cli/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" title="Proton Pass CLI" />
+        </a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/sqlc/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/sqlc.svg?header=Sqlc" title="Sqlc" />
         </a>
       </td>
     </tr>
