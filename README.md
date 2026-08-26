@@ -79,110 +79,111 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
   <em>Open to challenging projects that push technical boundaries and deliver real user value.</em>
 </p>
 
-## 📦 Stuff I maintain
+## 📦 Stuff I Maintain
+
+<h4 align="center">
+  <a href="https://github.com/termux/termux-packages">Termux Main Packages</a>
+</h4>
 
 <table align="center">
   <tbody align="center">
     <tr>
       <td>
-        <h5>
-          <a href="https://github.com/termux/termux-packages">Termux Repos:</a>
-        </h5>
-      </td>
-      <td>
         <a href="https://repology.org/project/air-go/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/air-live-reload.svg?header=Air" title="Air" />
+          <img src="https://repology.org/badge/version-for-repo/termux/air-live-reload.svg?header=Air" alt="Air" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/goimports/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/goimports.svg?header=Goimports" title="Goimports" />
+          <img src="https://repology.org/badge/version-for-repo/termux/goimports.svg?header=Goimports" alt="Goimports" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/golangci-lint/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/golangci-lint.svg?header=Golangci-lint" title="Golangci-lint" />
+          <img src="https://repology.org/badge/version-for-repo/termux/golangci-lint.svg?header=Golangci-lint" alt="Golangci-lint" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/gotests/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/gotests.svg?header=Gotests" title="Gotests" />
+          <img src="https://repology.org/badge/version-for-repo/termux/gotests.svg?header=Gotests" alt="Gotests" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://repology.org/project/gotestsum/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/gotestsum.svg?header=Gotestsum" title="Gotestsum" />
+          <img src="https://repology.org/badge/version-for-repo/termux/gotestsum.svg?header=Gotestsum" alt="Gotestsum" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/goreleaser/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/goreleaser.svg?header=Goreleaser" title="Goreleaser" />
+          <img src="https://repology.org/badge/version-for-repo/termux/goreleaser.svg?header=Goreleaser" alt="Goreleaser" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/govulncheck/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/govulncheck.svg?header=Govulncheck" title="Govulncheck" />
+          <img src="https://repology.org/badge/version-for-repo/termux/govulncheck.svg?header=Govulncheck" alt="Govulncheck" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/go:migrate/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/go:migrate.svg?header=Gomigrate" title="Go migrate" />
-        </a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/git-cliff/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/git-cliff.svg?header=Git%20cliff" title="Git cliff" />
+          <img src="https://repology.org/badge/version-for-repo/termux/go:migrate.svg?header=Gomigrate" alt="Go migrate" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
+        <a href="https://repology.org/project/sqlc/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/sqlc.svg?header=Sqlc" alt="Sqlc" />
+        </a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/git-cliff/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/git-cliff.svg?header=Git%20cliff" alt="Git cliff" />
+        </a>
+      </td>
+      <td>
         <a href="https://repology.org/project/git-absorb/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/git-absorb.svg?header=Git%20absorb" title="Git absorb" />
+          <img src="https://repology.org/badge/version-for-repo/termux/git-absorb.svg?header=Git%20absorb" alt="Git absorb" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/gtrash/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/gtrash.svg?header=gtrash" title="gtrash" />
+          <img src="https://repology.org/badge/version-for-repo/termux/gtrash.svg?header=gtrash" alt="gtrash" />
         </a>
       </td>
-      <td>
+    </tr>
+    <tr>
+      <td colspan="4">
         <a href="https://repology.org/project/proton-pass-cli/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" title="Proton Pass CLI" />
-        </a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/sqlc/versions">
-          <img src="https://repology.org/badge/version-for-repo/termux/sqlc.svg?header=Sqlc" title="Sqlc" />
+          <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" alt="Proton Pass CLI" />
         </a>
       </td>
     </tr>
   </tbody>
 </table>
 
+<h4 align="center">
+  <a href="https://github.com/termux-user-repository/tur">TUR (Termux User Repository)</a>
+</h4>
+
 <table align="center">
   <tbody align="center">
     <tr>
       <td>
-        <h5>
-          <a href="https://github.com/termux-user-repository/tur">TUR Repos:</a>
-        </h5>
-      </td>
-      <td>
         <a href="https://repology.org/project/bun/versions">
-          <img src="https://repology.org/badge/version-for-repo/tur/bun.svg?header=Bun" title="Bun" />
+          <img src="https://repology.org/badge/version-for-repo/tur/bun.svg?header=Bun" alt="Bun" />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/fonts%3Anerd-fonts/versions">
-          <img src="https://repology.org/badge/version-for-repo/tur/fonts%3Anerd-fonts.svg?header=Nerd%20Fonts" title="Nerd fonts" />
+          <img src="https://repology.org/badge/version-for-repo/tur/fonts%3Anerd-fonts.svg?header=Nerd%20Fonts" alt="Nerd fonts" />
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ## 🌐 Connect
 
