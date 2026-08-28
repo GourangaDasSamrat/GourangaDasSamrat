@@ -138,6 +138,23 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         </a>
       </td>
       <td>
+        <a href="https://repology.org/project/gosec/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/gosec.svg?header=Gosec" alt="Gosec" />
+        </a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/gofumpt/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/gofumpt.svg?header=Gofumpt" alt="Gofumpt" />
+        </a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/go%3Atask/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/go%3Atask.svg?header=Go%20Task" alt="Go task" />
+        </a>
+      </td>
+    <tr>
+    </tr>
+      <td>
         <a href="https://repology.org/project/cargo-audit/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/cargo-audit.svg?header=Cargo%20audit" alt="Cargo audit" />
         </a>
@@ -148,12 +165,22 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         </a>
       </td>
       <td>
+        <a href="https://repology.org/project/cargo-machete/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/cargo-machete.svg?header=Cargo%20machete" alt="Cargo machete" />
+        </a>
+      </td>
+      <td>
         <a href="https://repology.org/project/bacon-rust-code-checker/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/bacon-rust-code-checker.svg?header=Bacon" alt="Bacon" />
         </a>
       </td>
     </tr>
     <tr>
+      <td>
+        <a href="https://repology.org/project/sea-orm-cli/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/sea-orm-cli.svg?header=Sea%20orm%20cli" alt="Sea orm cli" />
+        </a>
+      </td>
       <td>
         <a href="https://repology.org/project/git-cliff/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/git-cliff.svg?header=Git%20cliff" alt="Git cliff" />
@@ -169,9 +196,16 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
           <img src="https://repology.org/badge/version-for-repo/termux/gtrash.svg?header=gtrash" alt="gtrash" />
         </a>
       </td>
-      <td>
+    </tr>
+    <tr>
+      <td colspan=2>
         <a href="https://repology.org/project/proton-pass-cli/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" alt="Proton Pass CLI" />
+        </a>
+      </td>
+      <td colspan=2>
+        <a href="https://repology.org/project/doggo/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/doggo.svg?header=Doggo" alt="Doggo" />
         </a>
       </td>
     </tr>
