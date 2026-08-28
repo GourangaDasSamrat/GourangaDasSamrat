@@ -152,8 +152,8 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
           <img src="https://repology.org/badge/version-for-repo/termux/go%3Atask.svg?header=Go%20Task" alt="Go task" />
         </a>
       </td>
-    <tr>
     </tr>
+    <tr>
       <td>
         <a href="https://repology.org/project/cargo-audit/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/cargo-audit.svg?header=Cargo%20audit" alt="Cargo audit" />
@@ -198,12 +198,12 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
       </td>
     </tr>
     <tr>
-      <td colspan=2>
+      <td colspan="2">
         <a href="https://repology.org/project/proton-pass-cli/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" alt="Proton Pass CLI" />
         </a>
       </td>
-      <td colspan=2>
+      <td colspan="2">
         <a href="https://repology.org/project/doggo/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/doggo.svg?header=Doggo" alt="Doggo" />
         </a>
@@ -211,6 +211,7 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
     </tr>
   </tbody>
 </table>
+
 
 <h4 align="center">
   <a href="https://github.com/termux-user-repository/tur">TUR (Termux User Repository)</a>
