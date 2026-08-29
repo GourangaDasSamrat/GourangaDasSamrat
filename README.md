@@ -197,13 +197,18 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         </a>
       </td>
     </tr>
-    <tr>
+    <tr> 
+     <td>
+        <a href="https://repology.org/project/thonny/versions">
+          <img src="https://repology.org/badge/version-for-repo/termux/thonny.svg?header=Thonny" alt="Thonny" />
+        </a>
+      </td>
       <td colspan="2">
         <a href="https://repology.org/project/proton-pass-cli/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI" alt="Proton Pass CLI" />
         </a>
       </td>
-      <td colspan="2">
+      <td>
         <a href="https://repology.org/project/doggo/versions">
           <img src="https://repology.org/badge/version-for-repo/termux/doggo.svg?header=Doggo" alt="Doggo" />
         </a>
