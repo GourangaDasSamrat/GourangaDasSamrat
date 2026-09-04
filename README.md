@@ -61,11 +61,11 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
     </tr>
     <tr>
       <td align="center"><strong>Database</strong></td>
-      <td>MongoDB • PostgreSQL • MySQL • SQLite • Redis • Firebase</td>
+      <td>MongoDB • PostgreSQL •  SQLite • MySQL • Redis</td>
     </tr>
     <tr>
       <td align="center"><strong>DevOps & Cloud</strong></td>
-      <td>Docker • Linux • GitHub Actions • CI/CD</td>
+      <td>Microsoft Azure • Docker • Linux • GitHub Actions • CI/CD</td>
     </tr>
     <tr>
       <td align="center"><strong>Documentation</strong></td>
