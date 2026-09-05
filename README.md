@@ -117,10 +117,10 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/python:pynacl/versions"
+        <a href="https://repology.org/project/httpie/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/python%3Apynacl.svg?header=PyNaCl"
-            alt="PyNaCl"
+            src="https://repology.org/badge/version-for-repo/termux/httpie.svg?header=Httpie"
+            alt="Httpie"
         /></a>
       </td>
     </tr>
@@ -288,6 +288,29 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         /></a>
       </td>
       <td>
+        <a href="https://repology.org/project/python:pynacl/versions"
+          ><img
+            src="https://repology.org/badge/version-for-repo/termux/python%3Apynacl.svg?header=PyNaCl"
+            alt="PyNaCl"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/python%3Ajellyfish/versions"
+          ><img
+            src="https://repology.org/badge/version-for-repo/termux/python%3Ajellyfish.svg?header=Python%20Jellyfish"
+            alt="Python Jellyfish"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/python%3Arpds-py/versions"
+          ><img
+            src="https://repology.org/badge/version-for-repo/termux/python%3Arpds-py.svg?header=Python%20rpds-py"
+            alt="Python rpds-py"
+        /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://repology.org/project/ghq/versions"
           ><img
             src="https://repology.org/badge/version-for-repo/termux/ghq.svg?header=ghq"
@@ -308,16 +331,14 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
             alt="Git absorb"
         /></a>
       </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      <td>
         <a href="https://repology.org/project/doggo/versions"
           ><img
             src="https://repology.org/badge/version-for-repo/termux/doggo.svg?header=Doggo"
             alt="Doggo"
         /></a>
       </td>
-      <td colspan="3">
+      <td>
         <a href="https://repology.org/project/gtrash/versions"
           ><img
             src="https://repology.org/badge/version-for-repo/termux/gtrash.svg?header=gtrash"
@@ -336,13 +357,29 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
   <tbody align="center">
     <tr>
       <td>
-        <a href="https://repology.org/project/golangci-lint-langserver/versions">
-          <img src="https://repology.org/badge/version-for-repo/tur/golangci-lint-langserver.svg?header=Golangci%20lint%20langserver" alt="Golangci lint langserver" />
+        <a
+          href="https://repology.org/project/golangci-lint-langserver/versions"
+        >
+          <img
+            src="https://repology.org/badge/version-for-repo/tur/golangci-lint-langserver.svg?header=Golangci%20lint%20langserver"
+            alt="Golangci lint langserver"
+          />
         </a>
       </td>
       <td>
         <a href="https://repology.org/project/fonts%3Anerd-fonts/versions">
-          <img src="https://repology.org/badge/version-for-repo/tur/fonts%3Anerd-fonts.svg?header=Nerd%20Fonts" alt="Nerd fonts" />
+          <img
+            src="https://repology.org/badge/version-for-repo/tur/fonts%3Anerd-fonts.svg?header=Nerd%20Fonts"
+            alt="Nerd fonts"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/dpic/versions">
+          <img
+            src="https://repology.org/badge/version-for-repo/tur/dpic.svg?header=Dpic"
+            alt="Dpic"
+          />
         </a>
       </td>
     </tr>
