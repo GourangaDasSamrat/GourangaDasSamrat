@@ -103,13 +103,6 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/proton-pass-cli/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI"
-            alt="Proton Pass CLI"
-        /></a>
-      </td>
-      <td>
         <a href="https://repology.org/project/thonny/versions"
           ><img
             src="https://repology.org/badge/version-for-repo/termux/thonny.svg?header=Thonny"
@@ -121,6 +114,13 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
           ><img
             src="https://repology.org/badge/version-for-repo/termux/httpie.svg?header=Httpie"
             alt="Httpie"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.org/project/hurl-http-requester/versions"
+          ><img
+            src="https://repology.org/badge/version-for-repo/termux/hurl-http-requester.svg?header=Hurl"
+            alt="Hurl"
         /></a>
       </td>
     </tr>
@@ -331,14 +331,30 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
             alt="Git absorb"
         /></a>
       </td>
-      <td>
+       <td>
+        <a href="https://repology.org/project/proton-pass-cli/versions"
+          ><img
+            src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI"
+            alt="Proton Pass CLI"
+        /></a>
+      </td>
+       <td>
+        <a href="https://repology.org/project/proton-drive-cli/versions"
+          ><img
+            src="https://repology.org/badge/version-for-repo/termux/proton-drive-cli.svg?header=Proton%20Drive%20CLI"
+            alt="Proton Drive CLI"
+        /></a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=3>
         <a href="https://repology.org/project/doggo/versions"
           ><img
             src="https://repology.org/badge/version-for-repo/termux/doggo.svg?header=Doggo"
             alt="Doggo"
         /></a>
       </td>
-      <td>
+      <td colspan=2>
         <a href="https://repology.org/project/gtrash/versions"
           ><img
             src="https://repology.org/badge/version-for-repo/termux/gtrash.svg?header=gtrash"
