@@ -391,6 +391,14 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         </a>
       </td>
       <td>
+        <a href="https://repology.org/project/sheets/versions">
+          <img
+            src="https://repology.org/badge/version-for-repo/tur/sheets.svg?header=Sheets"
+            alt="Sheets"
+          />
+        </a>
+      </td>
+      <td>
         <a href="https://repology.org/project/dpic/versions">
           <img
             src="https://repology.org/badge/version-for-repo/tur/dpic.svg?header=Dpic"
