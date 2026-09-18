@@ -89,281 +89,469 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
   <tbody align="center">
     <tr>
       <td>
-        <a href="https://repology.org/project/bun/versions"
+        <a href="https://repology.amdmi3.ru/project/bun/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/bun.svg?header=Bun"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/bun.svg?header=Bun"
             alt="Bun"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/azure-cli/versions"
+        <a href="https://repology.amdmi3.ru/project/pnpm/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/azure-cli.svg?header=Azure%20CLI"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/pnpm.svg?header=pnpm"
+            alt="pnpm"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/azure-cli/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/azure-cli.svg?header=Azure%20CLI"
             alt="Azure CLI"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/thonny/versions"
+        <a href="https://repology.amdmi3.ru/project/azd/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/thonny.svg?header=Thonny"
-            alt="Thonny"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/azd.svg?header=Azure%20Developer%20CLI"
+            alt="Azure Developer CLI"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/httpie/versions"
+        <a href="https://repology.amdmi3.ru/project/doctl/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/httpie.svg?header=Httpie"
-            alt="Httpie"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/hurl-http-requester/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/hurl-http-requester.svg?header=Hurl"
-            alt="Hurl"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/doctl.svg?header=doctl"
+            alt="doctl"
         /></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://repology.org/project/mongosh/versions"
+        <a href="https://repology.amdmi3.ru/project/oci-cli/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/mongosh.svg?header=mongosh"
-            alt="mongosh"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/oci-cli.svg?header=OCI%20CLI"
+            alt="OCI CLI"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/pgcli/versions"
+        <a href="https://repology.amdmi3.ru/project/pgcli/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/pgcli.svg?header=pgcli"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/pgcli.svg?header=pgcli"
             alt="pgcli"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/mycli/versions"
+        <a href="https://repology.amdmi3.ru/project/mycli/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/mycli.svg?header=mycli"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/mycli.svg?header=mycli"
             alt="mycli"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/litecli/versions"
+        <a href="https://repology.amdmi3.ru/project/litecli/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/litecli.svg?header=litecli"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/litecli.svg?header=litecli"
             alt="litecli"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/iredis/versions"
+        <a href="https://repology.amdmi3.ru/project/mongosh/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/iredis.svg?header=iredis"
-            alt="iredis"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/mongosh.svg?header=mongosh"
+            alt="mongosh"
         /></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://repology.org/project/golangci-lint/versions"
+        <a href="https://repology.amdmi3.ru/project/iredis/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/golangci-lint.svg?header=Golangci%20lint"
-            alt="Golangci lint"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/iredis.svg?header=IRedis"
+            alt="IRedis"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/goreleaser/versions"
+        <a href="https://repology.amdmi3.ru/project/httpie/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/goreleaser.svg?header=Goreleaser"
-            alt="Goreleaser"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/httpie.svg?header=HTTPie"
+            alt="HTTPie"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/air-go/versions"
+        <a href="https://repology.amdmi3.ru/project/k6/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/air-live-reload.svg?header=Air"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/k6.svg?header=k6"
+            alt="k6"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/hurl-http-requester/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/hurl-http-requester.svg?header=Hurl"
+            alt="Hurl"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/mkcert/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/mkcert.svg?header=mkcert"
+            alt="mkcert"
+        /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/thonny/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/thonny.svg?header=Thonny"
+            alt="Thonny"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/darktable/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/darktable.svg?header=darktable"
+            alt="darktable"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/rawtherapee/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/rawtherapee.svg?header=RawTherapee"
+            alt="RawTherapee"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/golangci-lint/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/golangci-lint.svg?header=golangci-lint"
+            alt="golangci-lint"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/goreleaser/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/goreleaser.svg?header=GoReleaser"
+            alt="GoReleaser"
+        /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/air-live-reload/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/air-live-reload.svg?header=Air"
             alt="Air"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/go%3Atask/versions"
+        <a href="https://repology.amdmi3.ru/project/go:task/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/go%3Atask.svg?header=Go%20Task"
-            alt="Go task"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/go%3Atask.svg?header=Task"
+            alt="Task"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/sqlc/versions"
+        <a href="https://repology.amdmi3.ru/project/sqlc/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/sqlc.svg?header=Sqlc"
-            alt="Sqlc"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/sqlc.svg?header=sqlc"
+            alt="sqlc"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/go:migrate/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/go%3Amigrate.svg?header=golang-migrate"
+            alt="golang-migrate"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/govulncheck/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/govulncheck.svg?header=govulncheck"
+            alt="govulncheck"
         /></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://repology.org/project/goimports/versions"
+        <a href="https://repology.amdmi3.ru/project/gosec/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/goimports.svg?header=Goimports"
-            alt="Goimports"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gosec.svg?header=gosec"
+            alt="gosec"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/go:migrate/versions"
+        <a href="https://repology.amdmi3.ru/project/gofumpt/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/go:migrate.svg?header=Gomigrate"
-            alt="Gomigrate"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gofumpt.svg?header=gofumpt"
+            alt="gofumpt"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/govulncheck/versions"
+        <a href="https://repology.amdmi3.ru/project/goimports/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/govulncheck.svg?header=Govulncheck"
-            alt="Govulncheck"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/goimports.svg?header=goimports"
+            alt="goimports"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/gosec/versions"
+        <a href="https://repology.amdmi3.ru/project/gotestsum/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/gosec.svg?header=Gosec"
-            alt="Gosec"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gotestsum.svg?header=gotestsum"
+            alt="gotestsum"
         /></a>
       </td>
       <td>
-        <a href="https://repology.org/project/gofumpt/versions"
+        <a href="https://repology.amdmi3.ru/project/gotests/versions"
           ><img
-            src="https://repology.org/badge/version-for-repo/termux/gofumpt.svg?header=Gofumpt"
-            alt="Gofumpt"
-        /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://repology.org/project/gotestsum/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/gotestsum.svg?header=Gotestsum"
-            alt="Gotestsum"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/gotests/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/gotests.svg?header=Gotests"
-            alt="Gotests"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/sea-orm-cli/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/sea-orm-cli.svg?header=Sea%20orm%20cli"
-            alt="Sea orm cli"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/bacon-rust-code-checker/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/bacon-rust-code-checker.svg?header=Bacon"
-            alt="Bacon"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/cargo-audit/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/cargo-audit.svg?header=Cargo%20audit"
-            alt="Cargo audit"
-        /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://repology.org/project/cargo-flamegraph/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/cargo-flamegraph.svg?header=Cargo%20flamegraph"
-            alt="Cargo flamegraph"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/cargo-machete/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/cargo-machete.svg?header=Cargo%20machete"
-            alt="Cargo machete"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/python:pynacl/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/python%3Apynacl.svg?header=PyNaCl"
-            alt="PyNaCl"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/python%3Ajellyfish/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/python%3Ajellyfish.svg?header=Python%20Jellyfish"
-            alt="Python Jellyfish"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/python%3Arpds-py/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/python%3Arpds-py.svg?header=Python%20rpds-py"
-            alt="Python rpds-py"
-        /></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://repology.org/project/ghq/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/ghq.svg?header=ghq"
-            alt="ghq"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/git-cliff/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/git-cliff.svg?header=Git%20cliff"
-            alt="Git cliff"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.org/project/git-absorb/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/git-absorb.svg?header=Git%20absorb"
-            alt="Git absorb"
-        /></a>
-      </td>
-       <td>
-        <a href="https://repology.org/project/proton-pass-cli/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI"
-            alt="Proton Pass CLI"
-        /></a>
-      </td>
-       <td>
-        <a href="https://repology.org/project/proton-drive-cli/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/proton-drive-cli.svg?header=Proton%20Drive%20CLI"
-            alt="Proton Drive CLI"
-        /></a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan=3>
-        <a href="https://repology.org/project/doggo/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/doggo.svg?header=Doggo"
-            alt="Doggo"
-        /></a>
-      </td>
-      <td colspan=2>
-        <a href="https://repology.org/project/gtrash/versions"
-          ><img
-            src="https://repology.org/badge/version-for-repo/termux/gtrash.svg?header=gtrash"
-            alt="gtrash"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gotests.svg?header=gotests"
+            alt="gotests"
         /></a>
       </td>
     </tr>
   </tbody>
 </table>
+
+<details>
+  <summary>See more</summary>
+
+  <table align="center">
+    <tbody align="center">
+      <tr>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/jujutsu/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/jujutsu.svg?header=Jujutsu"
+              alt="Jujutsu"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/gitleaks/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gitleaks.svg?header=Gitleaks"
+              alt="Gitleaks"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/git-cliff/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/git-cliff.svg?header=git-cliff"
+              alt="git-cliff"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/git-absorb/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/git-absorb.svg?header=git-absorb"
+              alt="git-absorb"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/ghq/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/ghq.svg?header=ghq"
+              alt="ghq"
+          /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/oha/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/oha.svg?header=oha"
+              alt="oha"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/hey/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/hey.svg?header=hey"
+              alt="hey"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/doggo/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/doggo.svg?header=doggo"
+              alt="doggo"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/sea-orm-cli/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/sea-orm-cli.svg?header=SeaORM%20CLI"
+              alt="SeaORM CLI"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/cargo-audit/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/cargo-audit.svg?header=cargo-audit"
+              alt="cargo-audit"
+          /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/bacon-rust-code-checker/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/bacon-rust-code-checker.svg?header=bacon"
+              alt="bacon"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/cargo-flamegraph/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/cargo-flamegraph.svg?header=cargo-flamegraph"
+              alt="cargo-flamegraph"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/cargo-machete/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/cargo-machete.svg?header=cargo-machete"
+              alt="cargo-machete"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/lensfun/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/lensfun.svg?header=Lensfun"
+              alt="Lensfun"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/libiptcdata/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/libiptcdata.svg?header=libiptcdata"
+              alt="libiptcdata"
+          /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/python:pynacl/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/python%3Apynacl.svg?header=PyNaCl"
+              alt="PyNaCl"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/python:jellyfish/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/python%3Ajellyfish.svg?header=Python%20Jellyfish"
+              alt="Python Jellyfish"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/python:rpds-py/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/python%3Arpds-py.svg?header=Python%20rpds-py"
+              alt="Python rpds-py"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/python:crc32c/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/python%3Acrc32c.svg?header=Python%20crc32c"
+              alt="Python crc32c"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/proton-pass-cli/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/proton-pass-cli.svg?header=Proton%20Pass%20CLI"
+              alt="Proton Pass CLI"
+          /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/proton-drive-cli/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/proton-drive-cli.svg?header=Proton%20Drive%20CLI"
+              alt="Proton Drive CLI"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/numbat/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/numbat.svg?header=Numbat"
+              alt="Numbat"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/uutils-coreutils/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/uutils-coreutils.svg?header=uutils%20coreutils"
+              alt="uutils coreutils"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/mdcat/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/mdcat.svg?header=mdcat"
+              alt="mdcat"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/oxipng/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/oxipng.svg?header=oxipng"
+              alt="oxipng"
+          /></a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/television/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/television.svg?header=television"
+              alt="television"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/vhs/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/vhs.svg?header=VHS"
+              alt="VHS"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/gurk/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gurk.svg?header=gurk"
+              alt="gurk"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/tuicr/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/tuicr.svg?header=tuicr"
+              alt="tuicr"
+          /></a>
+        </td>
+        <td>
+          <a href="https://repology.amdmi3.ru/project/gtrash/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gtrash.svg?header=gtrash"
+              alt="gtrash"
+          /></a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan=5>
+          <a href="https://repology.amdmi3.ru/project/selene-linter/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/selene-linter.svg?header=selene-linter"
+              alt="selene-linter"
+          /></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
 
 <h4 align="center">
   <a href="https://github.com/termux-user-repository/tur">TUR (Termux User Repository)</a>
@@ -374,34 +562,34 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
     <tr>
       <td>
         <a
-          href="https://repology.org/project/golangci-lint-langserver/versions"
+          href="https://repology.amdmi3.ru/project/golangci-lint-langserver/versions"
         >
           <img
-            src="https://repology.org/badge/version-for-repo/tur/golangci-lint-langserver.svg?header=Golangci%20lint%20langserver"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/tur/golangci-lint-langserver.svg?header=Golangci%20lint%20langserver"
             alt="Golangci lint langserver"
           />
         </a>
       </td>
       <td>
-        <a href="https://repology.org/project/fonts%3Anerd-fonts/versions">
+        <a href="https://repology.amdmi3.ru/project/fonts%3Anerd-fonts/versions">
           <img
-            src="https://repology.org/badge/version-for-repo/tur/fonts%3Anerd-fonts.svg?header=Nerd%20Fonts"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/tur/fonts%3Anerd-fonts.svg?header=Nerd%20Fonts"
             alt="Nerd fonts"
           />
         </a>
       </td>
       <td>
-        <a href="https://repology.org/project/sheets/versions">
+        <a href="https://repology.amdmi3.ru/project/sheets/versions">
           <img
-            src="https://repology.org/badge/version-for-repo/tur/sheets.svg?header=Sheets"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/tur/sheets.svg?header=Sheets"
             alt="Sheets"
           />
         </a>
       </td>
       <td>
-        <a href="https://repology.org/project/dpic/versions">
+        <a href="https://repology.amdmi3.ru/project/dpic/versions">
           <img
-            src="https://repology.org/badge/version-for-repo/tur/dpic.svg?header=Dpic"
+            src="https://repology.amdmi3.ru/badge/version-for-repo/tur/dpic.svg?header=Dpic"
             alt="Dpic"
           />
         </a>
