@@ -45,11 +45,11 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
   <table>
     <tr>
       <td align="center" width="150"><strong>Core Languages</strong></td>
-      <td>JavaScript • TypeScript • Go • Rust • C++</td>
+      <td>JavaScript • TypeScript • Go • Rust • C++ • Bash</td>
     </tr>
     <tr>
       <td align="center" width="150"><strong>Familiar With</strong></td>
-      <td>Python • C • Lua</td>
+      <td>Lua • C • Python</td>
     </tr>
     <tr>
       <td align="center"><strong>Frontend</strong></td>
