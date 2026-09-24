@@ -474,6 +474,13 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
           /></a>
         </td>
         <td>
+          <a href="https://repology.amdmi3.ru/project/mailpit/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/mailpit.svg?header=Mailpit"
+              alt="Mailpit"
+          /></a>
+        </td>
+        <td>
           <a href="https://repology.amdmi3.ru/project/numbat/versions"
             ><img
               src="https://repology.amdmi3.ru/badge/version-for-repo/termux/numbat.svg?header=Numbat"
@@ -494,6 +501,8 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
               alt="mdcat"
           /></a>
         </td>
+      </tr>
+      <tr>
         <td>
           <a href="https://repology.amdmi3.ru/project/oxipng/versions"
             ><img
@@ -501,8 +510,6 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
               alt="oxipng"
           /></a>
         </td>
-      </tr>
-      <tr>
         <td>
           <a href="https://repology.amdmi3.ru/project/television/versions"
             ><img
@@ -531,20 +538,27 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
               alt="tuicr"
           /></a>
         </td>
-        <td>
+      </tr>
+      <tr>
+        <td colspan="2">
           <a href="https://repology.amdmi3.ru/project/gtrash/versions"
             ><img
               src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gtrash.svg?header=gtrash"
               alt="gtrash"
           /></a>
         </td>
-      </tr>
-      <tr>
-        <td colspan=5>
+        <td>
           <a href="https://repology.amdmi3.ru/project/selene-linter/versions"
             ><img
               src="https://repology.amdmi3.ru/badge/version-for-repo/termux/selene-linter.svg?header=selene-linter"
               alt="selene-linter"
+          /></a>
+        </td>
+        <td colspan="2">
+          <a href="https://repology.amdmi3.ru/project/inshellisense/versions"
+            ><img
+              src="https://repology.amdmi3.ru/badge/version-for-repo/termux/inshellisense.svg?header=inshellisense"
+              alt="inshellisense"
           /></a>
         </td>
       </tr>
