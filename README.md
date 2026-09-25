@@ -170,6 +170,43 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
         /></a>
       </td>
       <td>
+        <a href="https://repology.amdmi3.ru/project/dbeaver/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/dbeaver.svg?header=DBeaver"
+            alt="DBeaver"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/pgadmin4/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/pgadmin4.svg?header=pgAdmin4"
+            alt="pgAdmin4"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/rawtherapee/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/rawtherapee.svg?header=RawTherapee"
+            alt="RawTherapee"
+        /></a>
+      </td>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/darktable/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/darktable.svg?header=darktable"
+            alt="darktable"
+        /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://repology.amdmi3.ru/project/thonny/versions"
+          ><img
+            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/thonny.svg?header=Thonny"
+            alt="Thonny"
+        /></a>
+      </td>
+      <td>
         <a href="https://repology.amdmi3.ru/project/httpie/versions"
           ><img
             src="https://repology.amdmi3.ru/badge/version-for-repo/termux/httpie.svg?header=HTTPie"
@@ -200,27 +237,6 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
     </tr>
     <tr>
       <td>
-        <a href="https://repology.amdmi3.ru/project/thonny/versions"
-          ><img
-            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/thonny.svg?header=Thonny"
-            alt="Thonny"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.amdmi3.ru/project/darktable/versions"
-          ><img
-            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/darktable.svg?header=darktable"
-            alt="darktable"
-        /></a>
-      </td>
-      <td>
-        <a href="https://repology.amdmi3.ru/project/rawtherapee/versions"
-          ><img
-            src="https://repology.amdmi3.ru/badge/version-for-repo/termux/rawtherapee.svg?header=RawTherapee"
-            alt="RawTherapee"
-        /></a>
-      </td>
-      <td>
         <a href="https://repology.amdmi3.ru/project/golangci-lint/versions"
           ><img
             src="https://repology.amdmi3.ru/badge/version-for-repo/termux/golangci-lint.svg?header=golangci-lint"
@@ -234,8 +250,6 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
             alt="GoReleaser"
         /></a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://repology.amdmi3.ru/project/air-live-reload/versions"
           ><img
@@ -257,6 +271,8 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
             alt="sqlc"
         /></a>
       </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://repology.amdmi3.ru/project/go:migrate/versions"
           ><img
@@ -271,8 +287,6 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
             alt="govulncheck"
         /></a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://repology.amdmi3.ru/project/gosec/versions"
           ><img
@@ -294,14 +308,16 @@ I'm a **Software Developer** based in Khulna, Bangladesh — focused on building
             alt="goimports"
         /></a>
       </td>
-      <td>
+    </tr>
+    <tr>
+      <td colspan="3">
         <a href="https://repology.amdmi3.ru/project/gotestsum/versions"
           ><img
             src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gotestsum.svg?header=gotestsum"
             alt="gotestsum"
         /></a>
       </td>
-      <td>
+      <td colspan="2">
         <a href="https://repology.amdmi3.ru/project/gotests/versions"
           ><img
             src="https://repology.amdmi3.ru/badge/version-for-repo/termux/gotests.svg?header=gotests"
